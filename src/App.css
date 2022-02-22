@@ -6,17 +6,17 @@ a {
   color: black;
 }
 
+.App {
+  max-width: 960px;
+  padding: 60px 0 100px;
+  margin: 0 auto;
+}
+
 .App-header {
   margin: 50px 0;
   font-size: 50px;
   font-weight: bold;
   text-align: center;
-}
-
-.App-logo {
-  max-width: 200px;
-  display: block;
-  margin: 0 auto;
 }
 
 .App-footer {

@@ -12,7 +12,23 @@ export default function App() {
           <Dictionary defaultKeyword="hello" />
         </main>
         <footer className="App-footer">
-          <small>Coded by Jana Zorigt</small>
+          <a
+            href="https://github.com/JanaZorigt/dictionary-project"
+            target="_blank"
+            rel="noopener noreferrer"
+            title="GitHub link"
+          >
+            Open-source code
+          </a>{" "}
+          by{" "}
+          <a
+            href="https://github.com/JanaZorigt"
+            target="_blank"
+            rel="noopener noreferrer"
+            title="Jana's GitHub Profile"
+          >
+            Jana Zorigt
+          </a>
         </footer>
       </div>
     </div>

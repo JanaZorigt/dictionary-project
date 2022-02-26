@@ -1,9 +1,12 @@
-body {
-  background: #d4f8e8;
-}
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap");
+/* font-family: "Josefin Sans", sans-serif;*/
+@import url("https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap");
 
-a {
-  color: black;
+body {
+  background: linear-gradient(-225deg, #e3fdf5 0%, #ffe6fa 100%);
+  font-family: "Indie Flower", cursive;
+  font-weight: 900;
+  font-size: larger;
 }
 
 .App {
@@ -17,9 +20,20 @@ a {
   font-size: 50px;
   font-weight: bold;
   text-align: center;
+  color: #f76b8a;
 }
 
 .App-footer {
   text-align: center;
   margin: 30px 0;
+}
+
+a:link,
+a:visited {
+  color: #00bdaa;
+  text-decoration: none;
+}
+
+a:hover {
+  color: blue;
 }

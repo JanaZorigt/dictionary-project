@@ -1,5 +1,5 @@
 .Dictionary h1 {
-  font-size: 18px;
+  font-size: 25px;
   font-weight: bold;
   margin-bottom: 20px;
   color: #00bdaa;
@@ -22,6 +22,6 @@
 }
 
 .Dictionary .hint {
-  font-size: 14px;
+  font-size: 15px;
   margin-top: 5px;
 }

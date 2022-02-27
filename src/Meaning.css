@@ -1,5 +1,5 @@
 .Meaning h3 {
-  font-size: 28px;
+  font-size: 30px;
   font-weight: bold;
   color: #f76b8a;
   margin-bottom: 20px;
@@ -10,9 +10,7 @@
 }
 
 .Meaning .example {
-  font-size: 14px;
-  opacity: 0.75;
-  font-style: italic;
+  font-size: 15px;
   margin: 10px;
   color: #00bdaa;
 }
